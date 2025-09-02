@@ -1,2 +1,3 @@
-# johnug.github.io
-Johnug's Blog
+# Johnug's Blog: Coffee-spilled development 
+
+My Blog is under construction. Contents coming up!
