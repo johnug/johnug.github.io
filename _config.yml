@@ -1,8 +1,11 @@
 title: Coffee-spilled Development
 author: Johan Nugraha
+description: > # this means to ignore newlines until "theme:"
+  My blog, where I write what I learned as a developer, or about other things that I find interesting.
 theme: minima
 show_excerpts: true
 linkedin_username: johnug
 github_username: johnug
+rss: rss
 plugins:
   - jekyll-sitemap
