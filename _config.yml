@@ -1,8 +1,7 @@
 title: Coffee-spilled Development
 author: Johan Nugraha
 theme: minima
-minima:
-  show_excerpts: true
+show_excerpts: true
 linkedin_username: johnug
 github_username: johnug
 plugins:
